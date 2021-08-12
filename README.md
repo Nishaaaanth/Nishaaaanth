@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishaaaanth
-- 👀 I’m interested in Music, Web Dev and Programming on Traffic Control
-- 🌱 I’m currently learning Civil Engineering, Coding and Music
-- 💞️ I’m looking to collaborate on Web Dev
-- 📫 How to reach me on www.linkedin.com/in/nishanthkiran
+- 👀 I’m interested in Music, Dev and Programming on Traffic Control.
+- 🌱 I’m currently learning Civil Engineering, Programming and Music.
+- 💞️ I’m looking to collaborate on Web, C++ or Python Dev.
+- 📫 How to reach me: www.linkedin.com/in/nishanthkiran
