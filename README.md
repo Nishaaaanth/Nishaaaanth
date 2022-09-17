@@ -2,13 +2,13 @@
 <h3 align="center">Curious about WebDev, DataScience and Music.</h3>
 
 <p align="center">
-🔭 I’m currently working on **My Portfolio Site**
+🔭 I’m currently working on My Portfolio Site
 </p>
 <p align="center">
-🌱 I’m currently learning **React.js, Next.js, Node.js**
+🌱 I’m currently learning React.js, Next.js, Node.js
 </p>
 <p align="center">
-💬 Ask me about **HTML, CSS, Javascript, Python, Java**
+💬 Ask me about HTML, CSS, Javascript, Python, Java
 </p>
 
 <h3 align="center">Connect with me:</h3>
