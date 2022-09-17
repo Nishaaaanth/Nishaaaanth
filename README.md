@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishaaaanth
-- 👀 I’m interested in Music, Dev and Programming.
-- 🌱 I’m currently learning new and interestng stuffs.
-- 💞️ I’m looking to collaborate on Web, Java or Python Dev.
+- 👀 I’m interested in Music and Tech.
+- 🌱 I’m currently looking for projects to contribute.
+- 💞️ I’m looking to collaborate on Web, Java and Python Projects.
 - 📫 How to reach me: www.linkedin.com/in/nishanthkiran
