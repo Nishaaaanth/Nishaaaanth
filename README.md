@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth Kiran</h1>
-<h3 align="center">Exploring <i>WebDev</i>, <i>C</i>, <i>Bash</i>, <i>Linux</i> and <i>Music</i>.</h3>
+<h3 align="center">Exploring <i>WebDev</i>, <i>C</i>, <i>Bash</i>, <i>Linux</i> and <i>Audio</i>.</h3>
 
 
 <div align="center">
