@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishanth Kiran</h1>
 <h3 align="center">Exploring <i>WebDev</i>, <i>C</i>, <i>Bash</i>, <i>Linux</i> and <i>Audio</i>.</h3>
 
-
-<div align="center">
-<!--   <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nishaaaanth&theme=dark&hide_border=true&border_radius=7.2"/></a> -->
-  <a align="right" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nishaaaanth&theme=gruvbox"/></a>
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/nishanthkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishanthkiran" height="30" width="40" /></a>
