@@ -3,8 +3,8 @@
 
 
 <div align="center">
-  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nishaaaanth&theme=dark&hide_border=true&border_radius=7.2"/></a>
-<!--   <a align="right" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nishaaaanth&theme=gruvbox"/></a> -->
+<!--   <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nishaaaanth&theme=dark&hide_border=true&border_radius=7.2"/></a> -->
+  <a align="right" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nishaaaanth&theme=gruvbox"/></a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
