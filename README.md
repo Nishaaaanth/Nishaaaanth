@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishanth Kiran</h1>
-<h3 align="center">Software Engineer</i>.</h3>
+<h4 align="center">Software Engineer</i>.</h4>
 
-<div align="center">
+<!-- <div align="center">
 <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nishaaaanth&theme=dark&hide_border=true&border_radius=7.2"/></a>
-</div>
+</div> -->
 
 
 <h3 align="center">Connect with me:</h3>
